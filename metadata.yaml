@@ -1,0 +1,38 @@
+_repo: Raphael_44033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44033-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Konody, Paul G. (Paul George)
+    alias: Konody, Paul George
+    birthdate: &id001 1872
+    deathdate: 1933
+    gutenberg_agent_id: '39609'
+    url: http://www.gutenberg.org/2009/agents/39609
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: *id001
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Raphael, 1483-1520'
+title: Raphael
+url: http://www.gutenberg.org/ebooks/44033
